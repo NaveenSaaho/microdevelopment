@@ -1,0 +1,6 @@
+this is microdegree devops class
+below are the tools used in devops
+docker
+kubernates
+terraform
+modified microdegree file
